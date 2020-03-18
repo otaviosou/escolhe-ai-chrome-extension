@@ -1,5 +1,5 @@
 {
-    "name":"Choose Netflix!",
+    "name":"Choice Netflix!",
     "version":"1.0",
     "description":"A Chrome extension to automatically choose a movie/serie on Netflix",
     "browser_action":{

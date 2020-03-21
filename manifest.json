@@ -2,8 +2,12 @@
     "name":"Escolhe aí!",
     "version":"1.0",
     "description":"A Chrome extension to automatically choose a movie/serie on Netflix",
+    "manifest_version":2,
     "browser_action":{
         "default_popup":"index.html"
     },
-    "manifest_version":2
+    "content_scripts": [{
+        "matches": [ "https://g1.globo.com/"],
+        "js": [ "script.js" ]
+    }]
 }

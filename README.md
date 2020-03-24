@@ -2,4 +2,5 @@ Escolhe Aí!
 
 A Chrome extension to choose a movie or a serie automatically and randomly for you!
 
-https://github.com/otaviosou/escolhe-ai-chrome-extension/issues/1#issue-586924772
+![new screen](https://user-images.githubusercontent.com/61810058/77426026-ec930e00-6d90-11ea-8d86-2529d3d8e404.png)
+
